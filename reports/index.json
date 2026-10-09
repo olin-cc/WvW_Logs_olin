@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.2"
+  },
+  "entries": [
+    {
+      "id": "20261010-033613-14wn",
+      "title": "X Peaceman X",
+      "commanders": [
+        "X Peaceman X"
+      ],
+      "guild": {
+        "id": "457E046F-322B-45F1-B59B-9AE1EC91038B",
+        "name": "I Legendary Nonames I",
+        "tag": "LN"
+      },
+      "dateStart": "2026-10-09T20:36:13.000Z",
+      "dateEnd": "2026-10-09T20:56:01.269Z",
+      "dateLabel": "10/10/2026, 3:36:13 AM - 10/10/2026, 3:56:01 AM",
+      "url": "https://olin-cc.github.io/WvW_Logs_olin/?report=20261010-033613-14wn",
+      "publishedBy": "olin-cc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 81,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 25
+      }
+    }
+  ]
+}
