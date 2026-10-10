@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261010-221022-o9dg",
+      "title": "Pray For My Boons",
+      "commanders": [
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-10T15:10:22.000Z",
+      "dateEnd": "2026-10-10T15:58:21.092Z",
+      "dateLabel": "10/10/2026, 10:10:22 PM - 10/10/2026, 10:58:21 PM",
+      "url": "https://olin-cc.github.io/WvW_Logs_olin/?report=20261010-221022-o9dg",
+      "publishedBy": "olin-cc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261010-033613-14wn",
       "title": "X Peaceman X",
       "commanders": [
