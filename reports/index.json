@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261011-201540-3z4d",
+      "title": "Pray For My Boons",
+      "commanders": [
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-11T13:15:40.000Z",
+      "dateEnd": "2026-10-11T15:48:28.303Z",
+      "dateLabel": "10/11/2026, 8:15:40 PM - 10/11/2026, 10:48:28 PM",
+      "url": "https://olin-cc.github.io/WvW_Logs_olin/?report=20261011-201540-3z4d",
+      "publishedBy": "olin-cc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 65,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261010-221022-o9dg",
       "title": "Pray For My Boons",
       "commanders": [
