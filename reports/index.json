@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261017-031618-if45",
+      "title": "X Peaceman X",
+      "commanders": [
+        "X Peaceman X"
+      ],
+      "guild": {
+        "id": "457E046F-322B-45F1-B59B-9AE1EC91038B",
+        "name": "I Legendary Nonames I",
+        "tag": "LN"
+      },
+      "dateStart": "2026-10-16T20:16:18.000Z",
+      "dateEnd": "2026-10-16T20:59:16.687Z",
+      "dateLabel": "10/17/2026, 3:16:18 AM - 10/17/2026, 3:59:16 AM",
+      "url": "https://olin-cc.github.io/WvW_Logs_olin/?report=20261017-031618-if45",
+      "publishedBy": "olin-cc",
+      "summary": {
+        "borderlandsPct": 0.9696969696969697,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261012-215522-7rdb",
       "title": "Pray For My Boons",
