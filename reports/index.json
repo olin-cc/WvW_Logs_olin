@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261101-215513-177u",
+      "title": "Tríckstars",
+      "commanders": [
+        "Tríckstars"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-11-01T14:55:13.000Z",
+      "dateEnd": "2026-11-01T15:33:25.968Z",
+      "dateLabel": "11/1/2026, 9:55:13 PM - 11/1/2026, 10:33:25 PM",
+      "url": "https://olin-cc.github.io/WvW_Logs_olin/?report=20261101-215513-177u",
+      "publishedBy": "olin-cc",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261017-031618-if45",
       "title": "X Peaceman X",
